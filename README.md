@@ -54,7 +54,9 @@ Currency-Calculator/
 
 └── package.json # Project metadata and dependencies
 
-🧠 Learnings
+
+## 🧠 Learnings
+
 Mastered API integration with React hooks
 
 Practiced utility-first CSS design using Tailwind
